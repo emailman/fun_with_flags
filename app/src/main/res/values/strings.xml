@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="total_questions">Total Questions</string>
+    <string name="answer_a">Answer A</string>
+    <string name="answer_b">Answer B</string>
+    <string name="answer_c">Answer C</string>
+    <string name="answer_d">Answer D</string>
+    <string name="this_will_be_the_question">This will be the question</string>
+    <string name="which_country_s_flag_is_this">Which country\'s flag is this?</string>
+    <string name="todo">TODO</string>
+    <string name="indonesian_flag">Indonesian Flag</string>
+    <string name="poland">Poland</string>
+    <string name="russia">Russia</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="argentina">Argentina</string>
+    <string name="submit">SUBMIT</string>
+    <string name="finish">FINISH</string>
+    <string name="x_of_y">"%d/%d</string>
+    <string name="image">Image</string>
+    <string name="result">Result</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="username">Player</string>
+    <string name="score">Your score is %d out of %d</string>
+    <string name="click_to_play_again">CLICK TO PLAY AGAIN</string>
+</resources>
